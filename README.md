@@ -9,4 +9,4 @@ Signup
 Login
 ![Login](screenshots/login.png)
 Delete
-![Delete(screenshots/delete.png)
+![Delete](screenshots/delete.png)
