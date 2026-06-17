@@ -9,4 +9,4 @@ Signup
 Login
 ![Login](screenshots/login.png)
 Customer Records
-![Customer Records](screenshots/customerrecords.png)
+![Customer Records](screenshots/customer_records.png)
