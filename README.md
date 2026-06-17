@@ -10,3 +10,9 @@ Login
 ![Login](screenshots/login.png)
 Delete
 ![Delete](screenshots/delete.png)
+customer
+![customer](screenshots/customer_records.png)
+new_customer
+![new_customer](screenshots/new_customer.png)
+
+
