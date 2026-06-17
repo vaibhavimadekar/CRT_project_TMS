@@ -8,5 +8,5 @@ Signup
 ![Signup](screenshots/signup.png)
 Login
 ![Login](screenshots/login.png)
-Customer Records
-![Customer Records](screenshots/customer_records.png)
+Delete
+![Delete(screenshots/delete.png)
