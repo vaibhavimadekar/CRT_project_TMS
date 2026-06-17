@@ -3,5 +3,5 @@ Tailor Shop Management System is a web application developed in java with spring
 
 # ScreenShots
 Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-![](https://raw.githubusercontent.com/realmoieen/tms/main/screenshots/dashboard.png)
